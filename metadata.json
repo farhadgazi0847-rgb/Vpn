@@ -1,0 +1,6 @@
+{
+  "name": "Meridian VPN — Global Network & Architecture Studio",
+  "description": "Interactive global VPN command center, server management directory, security & split-tunneling controls, UX edge-state simulator, and multi-region system architecture blueprint.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
